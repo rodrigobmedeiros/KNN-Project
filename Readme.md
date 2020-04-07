@@ -337,20 +337,6 @@ sns.pairplot(data,hue='TARGET CLASS', palette='coolwarm')
 # palette: color code used. Acess: https://seaborn.pydata.org/tutorial/color_palettes.html for reference
 ```
 
-    C:\Users\DigaoSuplementos\Anaconda3\lib\site-packages\statsmodels\nonparametric\kde.py:487: RuntimeWarning: invalid value encountered in true_divide
-      binned = fast_linbin(X, a, b, gridsize) / (delta * nobs)
-    C:\Users\DigaoSuplementos\Anaconda3\lib\site-packages\statsmodels\nonparametric\kdetools.py:34: RuntimeWarning: invalid value encountered in double_scalars
-      FAC1 = 2*(np.pi*bw/RANGE)**2
-    
-
-
-
-
-    <seaborn.axisgrid.PairGrid at 0x29cb11c71c8>
-
-
-
-
 ![png](output_9_2.png)
 
 
