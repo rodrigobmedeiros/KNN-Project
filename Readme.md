@@ -19,9 +19,6 @@ import matplotlib.pyplot as plt
 data = pd.read_csv('KNN_Project_Data')
 ```
 
-** Verifique o cabeçalho do DataFrame.**
-
-
 ```python
 # It's interesting to use some methods to give a first look to data.
 # I usually use head(), info() and describe
